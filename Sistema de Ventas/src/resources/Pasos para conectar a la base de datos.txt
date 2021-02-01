@@ -1,0 +1,13 @@
+1.-   Abrir con el programa xammp 
+2.-   Activar el Apache y tambien el Mysql
+3.-   Darle click en el boton admin de Mysql
+4.-   En la pagina web que ha sido dirigo crear la base
+      de datos llamado baseproyecto.
+5.-   Importar el  archivo Baseproyecto.sql que esta en la 
+      carpeta Proyecto_LPI/src/resources  en la base de datos baseproyecto.
+6.-   Aparecera las tablas y los valores de cada uno pero faltaran llenar datos.
+
+7.-   Ahora importaremos otro archivo llamado  DatosPrueba.sql que ahi estaran los datos para 
+      llenar nuestra base de datos como un ejemplo.
+
+8.-  Listo conectamos nuestra base de datos .
